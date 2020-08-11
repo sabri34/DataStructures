@@ -6,6 +6,7 @@ import java.awt.peer.SystemTrayPeer;
 import java.util.LinkedList;
 public class LinkList1 {
     public static void main (String [] args){
+
         LinkedList list1 = new LinkedList();
         list1.add("Portakal");
         list1.add("Limon");
